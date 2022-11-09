@@ -1,3 +1,7 @@
+- name: anim Home
+  url: https://animeblix.com/
+  waitForTimeout: 30000
+
 - name: youtube Home
   url: https://www.youtube.com/
   waitForTimeout: 30000
