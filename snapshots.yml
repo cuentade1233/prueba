@@ -1,3 +1,3 @@
 - name: youtube Home
   url: https://www.youtube.com/
-  waitForTimeout: 12000
+  waitForTimeout: 30000
